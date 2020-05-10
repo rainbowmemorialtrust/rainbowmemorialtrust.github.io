@@ -4,4 +4,4 @@ title: About
 ---
 # About page
 
-About Memorial Trust.
+- About Rainbox Memorial Trust.
